@@ -1,0 +1,16 @@
+#app {
+    min-height: 100vh;
+}
+.v-theme--dark {
+    text {
+        fill: #fff !important;
+    }
+}
+.v-theme--light {
+    text {
+        fill: #373d3f !important;
+    }
+    .v-main {
+        background-color: #f3f3f3;
+    }
+}
